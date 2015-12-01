@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Module>
+
+<ModulePrefs title="A Tool for Self-Expression"/>
+
+
+<Content type="html">
+
+<![CDATA[
+
+<APPLET CODE="KLDrawProj.class"
+WIDTH=800
+HEIGHT=600
+CODEBASE="https://sites.google.com/a/mittymonarch.com/selfexpresstool/files"
+ALT="Your browser understands the <APPLET> tag but isn't running the applet, for some reason.">
+
+</APPLET>
+
+]]>
+</Content>
+
+</Module>
